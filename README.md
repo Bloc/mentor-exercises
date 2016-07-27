@@ -16,3 +16,7 @@ This is a collection of exercises mentors may give students. To add your own exe
  - [Basic / intermediate JS exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/basic-intermediate-exercises.md)
  - [JS Closures / Scoping exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/closure-scoping-exercises.md)
 
+### Ruby exercises
+ - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/ruby/basic-exercises.md)
+
+
