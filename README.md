@@ -11,23 +11,14 @@ This is a collection of exercises mentors may give students. To add your own exe
 ## Questions
 
 
-## Exercises
+## Exercise types
 
-### HTML exercises
- - [Basic exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/html/basic-exercises.md)
+ - [HTML exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/html/README.md)
 
-### Command line exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/command-line/basic-exercises.md)
+ - [Command line exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/command-line/README.md)
 
-### Git exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/git/basic-exercises.md)
+ - [Git exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/git/README.md)
 
-### Javascript exercises
- - [Count the fives](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/count_the_fives.md)
- - [Basic / intermediate JS exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/basic-intermediate-exercises.md)
- - [JS Closures / Scoping exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/closure-scoping-exercises.md)
+ - [Javascript exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/README.md)
 
-### Ruby exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/ruby/basic-exercises.md)
-
-
+ - [Ruby exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/ruby/README.md)
