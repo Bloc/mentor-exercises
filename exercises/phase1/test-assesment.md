@@ -2,8 +2,8 @@
 2. What is the difference between a `<div>` and a `<span>` in HTML?
 3. What is wrong in the following HTML?
   ```
-  <div class="some class" id="someID"></div>
-  <div class="some class" id="someID"></div>
+  <div class="someClass" id="someID"></div>
+  <div class="someClass" id="someID"></div>
   ```
 4. How would you create a new folder named `testFolder` with the command line?
 5. How would you enter this folder?
