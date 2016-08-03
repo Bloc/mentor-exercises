@@ -31,6 +31,5 @@ This is a collection of exercises mentors may give students. To add your own exe
  - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/ruby/basic-exercises.md)
 
 ### Phase 1
- - [Test Assessment](https://github.com/Bloc/mentor-exercises/blob/master/exercises/phase1/test-assesment.md)
-
-
+ - [Test Assessment - One](https://github.com/Bloc/mentor-exercises/blob/master/exercises/phase1/test-assesment.md)
+ - [Test Assessment - Two](https://github.com/Bloc/mentor-exercises/blob/master/exercises/phase1/test-assesment-two.md)
