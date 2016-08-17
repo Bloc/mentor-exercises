@@ -32,3 +32,6 @@ function test() {
 
 test();
 ```
+9. Write a function to print out the song lyrics to "99 Bottles of Beer." Now add a case for when there are no bottles left.
+
+10. Write a function to mimic the game of Exploding Kittens using a standard 52 card deck with a single joker. Deal a random card to each player each turn. The game ends when someone is dealt the joker. Display a dialogue message to the losing player. 
