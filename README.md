@@ -16,6 +16,10 @@ This is a collection of exercises mentors may give students. To add your own exe
 ### HTML exercises
  - [Basic exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/html/basic-exercises.md)
 
+### CSS exercises
+ - [Basic exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/css/basic-css.md)
+ - [CSS Layout / Intermediate CSS](https://github.com/Bloc/mentor-exercises/blob/master/exercises/css/css-layout.md)
+
 ### Command line exercises
  - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/command-line/basic-exercises.md)
 
