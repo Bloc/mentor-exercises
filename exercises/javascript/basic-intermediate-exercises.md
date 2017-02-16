@@ -1,10 +1,10 @@
 # Basic - intermediate JS exercises
 
 1. What value is now stored in the variable name?
-```
-var isKing = true;
-var name = isKing ? ‘Arthur’ : ‘Hank’;
-```
+  ```
+  var isKing = true;
+  var name = isKing ? ‘Arthur’ : ‘Hank’;
+  ```
 
 2. What is the difference between == and === in Javascript? 
 
@@ -14,24 +14,25 @@ var name = isKing ? ‘Arthur’ : ‘Hank’;
 
 5. Write a for loop that will iterate from 0 to 20. For each iteration, it will check if the current number is even or odd, and report that to the screen in Javascript
 
-6. What does 'this' refer to when used in a Java method?
+6. What does 'this' refer to when used in a JavaScript method?
 
 7. Create an object that has properties with name = "fred" and major="music" and a property that is a function that takes 2 numbers and returns the smallest of the two, or the square of the two if they are equal.
 
 8. What’s the result of executing this code and why?
-```
-function test() {
-   console.log(a);
-   console.log(foo());
-   
-   var a = 1;
-   function foo() {
-      return 2;
-   }
-}
+  ```
+  function test() {
+     console.log(a);
+     console.log(foo());
+     
+     var a = 1;
+     function foo() {
+        return 2;
+     }
+  }
+  
+  test();
+  ```
 
-test();
-```
 9. Write a function to print out the song lyrics to "99 Bottles of Beer." Now add a case for when there are no bottles left.
 
 10. Write a function to mimic the game of Exploding Kittens using a standard 52 card deck with a single joker. Deal a random card to each player each turn. The game ends when someone is dealt the joker. Display a dialogue message to the losing player. 
