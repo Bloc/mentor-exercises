@@ -1,4 +1,4 @@
-1. Which HTML 5 tag would you use for semantically correctly wrap your page footer?<footer>
+1. Which HTML 5 tag would you use for semantically correctly wrap your page footer? <footer>
 2. What is the difference between a class and an id in HTML and what is it used for?id is an unique element, while class is for more than one element
 3. What is wrong in the following HTML?ID needs to go first before class
   ```
